@@ -14,7 +14,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
+<!--COMPLETED (1) Change the ConstraintLayout to a FrameLayout-->
+<!--COMPLETED (6) Remove the line that declares the id, we don't need it-->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_main"
